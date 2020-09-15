@@ -1,1 +1,26 @@
-{}
+{
+  "user": {
+    "id": "adfbadfbadfb",
+    "username": "FEM"
+  },
+  "pet": [
+    {
+      "id": "1",
+      "type": "CAT",
+      "name": "Luka",
+      "createdAt": " 234"
+    },
+    {
+      "id": "2",
+      "type": "CAT",
+      "name": "Leia",
+      "createdAt": " 234"
+    },
+    {
+      "id": "3",
+      "type": "DOG",
+      "name": "ARI",
+      "createdAt": " 234"
+    }
+  ]
+}
